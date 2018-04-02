@@ -1,0 +1,13 @@
+[
+    {"name":"name","label":"姓名","type":"input","weight":""},
+    {"name":"personId","label":"人员编号","type":"input","weight":""},
+    {"name":"age","label":"年龄","type":"input","weight":""},
+    {"name":"sex","label":"性别","type":"input","weight":""},
+    {"name":"country","label":"阵营","type":"input","weight":""},
+    {"name":"death","label":"死因","type":"input","weight":""},
+    {"name":"mate","label":"配偶","type":"input","weight":""},
+    {"name":"weapon","label":"武器","type":"input","weight":""},
+    {"name":"motherTown","label":"祖籍","type":"input","weight":""},
+    {"name":"remark","label":"备注","type":"input","weight":""},
+    {"name":"statu","label":"状态","type":"input","weight":""}
+]

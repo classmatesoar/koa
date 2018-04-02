@@ -1,0 +1,18 @@
+[
+    {"id":"01", "name":"关羽","personId":"Shu001","age":"60","sex":"0","country":"蜀","death":"1","mate":"","weapon":"青龙偃月刀","motherTown":"山西","remark":"逃犯","statu":"1"},
+    {"id":"02", "name":"吕布","personId":"Han002","age":"39","sex":"0","country":"汉","death":"1","mate":"貂蝉","weapon":"方天画戟","motherTown":"","remark":"反贼","statu":"2"},
+    {"id":"03", "name":"董卓","personId":"Han003","age":"52","sex":"0","country":"汉","death":"1","mate":"","weapon":"","motherTown":"","remark":"乱臣","statu":"3"},
+    {"id":"04", "name":"张飞","personId":"Shu004","age":"53","sex":"0","country":"蜀","death":"1","mate":"","weapon":"丈八蛇矛","motherTown":"","remark":"地主","statu":"3"},
+    {"id":"05", "name":"赵云","personId":"Shu005","age":"70","sex":"0","country":"蜀","death":"0","mate":"","weapon":"亮银枪","motherTown":"常山","remark":"","statu":"2"},
+    {"id":"06", "name":"周瑜","personId":"Wu006","age":"32","sex":"0","country":"吴","death":"1","mate":"小乔","weapon":"佩剑","motherTown":"扬州","remark":"","statu":"2"},
+    {"id":"07", "name":"张郃","personId":"Wei007","age":"47","sex":"0","country":"魏","death":"1","mate":"","weapon":"长枪","motherTown":"","remark":"","statu":"4"},
+    {"id":"08", "name":"刘表","personId":"Han008","age":"61","sex":"0","country":"汉","death":"1","mate":"","weapon":"剑","motherTown":"","remark":"封疆大吏","statu":"1"},
+    {"id":"09", "name":"典韦","personId":"Wei009","age":"34","sex":"0","country":"魏","death":"1","mate":"","weapon":"板斧","motherTown":"","remark":"","statu":"3"},
+    {"id":"10", "name":"黄盖","personId":"Wu0010","age":"68","sex":"0","country":"吴","death":"0","mate":"","weapon":"长枪","motherTown":"","remark":"","statu":"1"},
+    {"id":"11", "name":"吕蒙","personId":"Wu0011","age":"52","sex":"0","country":"吴","death":"1","mate":"","weapon":"长枪","motherTown":"","remark":"","statu":"4"},
+    {"id":"12", "name":"陆逊","personId":"Wu0012","age":"43","sex":"0","country":"吴","death":"1","mate":"","weapon":"蒲扇","motherTown":"","remark":"","statu":"1"},
+    {"id":"13", "name":"张春华","personId":"Wei0013","age":"62","sex":"1","country":"魏","death":"0","mate":"司马懿","weapon":"","motherTown":"","remark":"","statu":"3"},
+    {"id":"14", "name":"黄月英","personId":"Shu0014","age":"59","sex":"1","country":"蜀","death":"0","mate":"诸葛亮","weapon":"","motherTown":"","remark":"","statu":"2"},
+    {"id":"15", "name":"司马懿","personId":"Wei0015","age":"71","sex":"0","country":"魏","death":"0","mate":"张春华","weapon":"","motherTown":"","remark":"","statu":"4"},
+    {"id":"16", "name":"诸葛亮","personId":"Shu0016","age":"59","sex":"0","country":"蜀","death":"0","mate":"黄月英","weapon":"蒲扇","motherTown":"南阳","remark":"村夫","statu":"1"}
+]
